@@ -1,16 +1,23 @@
-## Hi there 👋
+# Nike Pool
 
-<!--
-**nikepool32/nikepool32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Specialization
+Development of software for detecting and analyzing anomalies in cryptocurrency trading.
 
-Here are some ideas to get you started:
+## Description
+Nike Pool is a project focused on building intelligent tools for monitoring, identifying, and interpreting unusual market signals in the cryptocurrency space. The main goal is to improve trading efficiency by enabling early detection of anomalies and potential market manipulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Features
+- Real-time market data analysis
+- Detection of price and volume anomalies
+- Identification of suspicious trading activity
+- Integration with popular cryptocurrency exchanges
+- Support for custom strategies and algorithms
+
+## Technologies
+- Python / C++
+- Machine Learning
+- Stream data processing
+- Cryptocurrency exchange APIs
+
+## Project Goal
+To create a reliable system capable of automatically detecting abnormal market patterns and providing traders with tools for informed decision-making.
